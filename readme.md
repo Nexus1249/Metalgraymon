@@ -162,5 +162,5 @@ Emoji:
 
 
 682115042 Waratit Phongwiwat
-=======
+
 Peerawit yawirach 682115032
